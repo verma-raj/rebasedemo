@@ -2,6 +2,9 @@ Dog
 Horse
 Elephant
 Tiger
+/* First update by Dev1 */
+Lion
+// MOdification ended Dev1
 /* First Addition by Dev2 */
 Monkey
 /* Dev2 done*/
